@@ -2,7 +2,7 @@ cu-cs-csci-3753 (1608.0.0) xenial-1608; urgency=medium
 
   * Added to xenial-1608 for Fall 16
 
- -- Ethan Hanner <andy@apt.cs.colorado.edu>  Mon, 29 Aug 2016 23:36:29 +0000
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Mon, 29 Aug 2016 23:36:29 +0000
 
 cu-cs-csci-3753 (1508.0.0) trusty-1508; urgency=medium
 
