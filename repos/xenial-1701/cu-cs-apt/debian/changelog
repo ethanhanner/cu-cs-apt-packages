@@ -1,3 +1,9 @@
+cu-cs-apt (1701.0.0) xenial-1701; urgency=medium
+
+  * Updated for Spring 2017
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 16 Jan 2017 23:49:16 +0000
+
 cu-cs-apt (1608.0.0) xenail-1608; urgency=medium
 
   * Updated for Fall 2016
