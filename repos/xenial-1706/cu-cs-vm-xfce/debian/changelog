@@ -1,3 +1,9 @@
+cu-cs-vm-xfce (1706.0.0) xenial-1706; urgency=medium
+
+  * Updated XFCE background to reflect Summer 2017
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 05 Jun 2017 21:58:23 +0000
+
 cu-cs-vm-xfce (1701.0.0) xenial-1701; urgency=medium
 
   * Updated for Spring 2017
