@@ -9,8 +9,7 @@ Depends: emacs | emacs24 | emacs-nox | emacs24-nox,
  vim | vim-gtk | vim-gnome | vim-nox, vim-doc,
  gedit, gedit-plugins,
  geany, geany-plugins,
- codeblocks, codeblocks-contrib,
- sublime-text-installer
+ codeblocks, codeblocks-contrib
 Architecture: all
 Copyright: copyright
 Changelog: changelog

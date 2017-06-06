@@ -1,3 +1,9 @@
+cu-cs-vm-xfce (1706.0.2) xenial-1706; urgency=medium
+
+  * cu-cs-editors-x update
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 12:59:33 +0000
+
 cu-cs-vm-xfce (1706.0.1) xenial-1706; urgency=medium
 
   * Modified editors source list file
