@@ -1,7 +1,7 @@
 # Packages
 deb       http://ppa.launchpad.net/damien-moore/codeblocks-stable xenial main
-deb       http://ppa.launchpad.net/webupd8team/sublimte-text-3 xenial main
+deb       http://ppa.launchpad.net/webupd8team/sublime-text-3 xenial main
 
 # Sources
 deb-src   http://ppa.launchpad.net/damien-moore/codeblocks-stable xenial main
-deb-src   http://ppa.launchpad.net/webupd8team/sublimte-text-3 xenial main
+deb-src   http://ppa.launchpad.net/webupd8team/sublime-text-3 xenial main
