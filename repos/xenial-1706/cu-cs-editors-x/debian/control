@@ -15,5 +15,4 @@ Architecture: all
 Copyright: copyright
 Changelog: changelog
 Files: ./cu-cs-editors.list /etc/apt/sources.list.d/
-    ./csel.gpg /etc/apt/trusted.gpg.d/
 Description: Desktop editor Packages for University of Colorado, Dept of CS
