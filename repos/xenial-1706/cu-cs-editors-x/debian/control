@@ -9,9 +9,9 @@ Depends: emacs | emacs24 | emacs-nox | emacs24-nox,
  vim | vim-gtk | vim-gnome | vim-nox, vim-doc,
  gedit, gedit-plugins,
  geany, geany-plugins,
- codeblocks, codeblocks-contrib
+ codeblocks, codeblocks-contrib,
+ sublime-text
 Architecture: all
 Copyright: copyright
 Changelog: changelog
-Files: ./cu-cs-editors.list /etc/apt/sources.list.d/
 Description: Desktop editor Packages for University of Colorado, Dept of CS

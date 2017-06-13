@@ -1,5 +1,0 @@
-# Packages
-deb       http://ppa.launchpad.net/damien-moore/codeblocks-stable xenial main
-
-# Sources
-deb-src   http://ppa.launchpad.net/damien-moore/codeblocks-stable xenial main

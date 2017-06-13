@@ -1,3 +1,9 @@
+cu-cs-vm-xfce (1706.0.4) xenial-1706; urgency=medium
+
+  * Remove cu-cs-editors.list and add prebuilt sublime-text to editors control file
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 13 Jun 2017 23:15:22 +0000
+
 cu-cs-vm-xfce (1706.0.3) xenial-1706; urgency=medium
 
   * editors update
