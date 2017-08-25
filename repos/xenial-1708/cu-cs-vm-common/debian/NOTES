@@ -1,0 +1,18 @@
+VM Setup Process
+
+0. Enable discard in VM XML file
+1. Start with stock Ubuntu 16.04.x (btrfs-based install w/ compression)
+2. Run all updates (sudo apt update && sudo apt full-upgrade)
+3. Install dkms (from apt) + guest additions (from CD)
+4. Download and manually install cu-cs-apt package
+5. Install cu-cs-vm-<flavor> package via apt
+6. Run update, autoremove, clean
+7. Tweak Terminal Color Settings -> Tango
+8. Set default launcher/desktop icons + background
+9. Disable screen lock, screensaver, etc
+10. Check Dropbox
+11. Clear History
+12. Create btrfs read-only snapshots
+13. Reboot
+14. Shutdown
+15. Image
