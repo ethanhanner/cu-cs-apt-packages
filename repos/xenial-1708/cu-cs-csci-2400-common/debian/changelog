@@ -1,3 +1,9 @@
+cu-cs-csci-2400-common (1708.0.0) xenial-1708; urgency=medium
+
+  * Initial release for Fall 2017. Package ported forward
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 28 Aug 2017 03:59:06 +0000
+
 cu-cs-csci-2400-common (1605.0.0) xenial-1605; urgency=medium
 
   * Updated for Summer 2016

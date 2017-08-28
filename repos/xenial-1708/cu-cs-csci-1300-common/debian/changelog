@@ -1,3 +1,9 @@
+cu-cs-csci-1300-common (1708.0.0) xenial-1708; urgency=medium
+
+  * Initial release for Fall 2017. Package ported forward
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Sun, 27 Aug 2017 03:31:35 +0000
+
 cu-cs-csci-1300-common (1605.0.2) xenial-1605; urgency=medium
 
   * Fixed python dependencies

@@ -3,10 +3,10 @@ Priority: optional
 Homepage: apt.cs.colorado.edu
 Standards-Version: 3.9.5
 Package: cu-cs-current-vm
-Maintainer: Andy Sayler <andy.sayler@colorado.edu>
+Maintainer: Ethan Hanner <ethan.hanner@colorado.edu>
 Pre-Depends: cu-cs-base-x, cu-cs-editors-x, cu-cs-nonfree-x, cu-cs-langs
-Depends: cu-cs-csci-1300-x, cu-cs-csci-1310-x, cu-cs-csci-1320-x,
- cu-cs-csci-2270-x, cu-cs-csci-2400-x
+Depends: cu-cs-csci-1300-x, cu-cs-csci-1310-x, cu-cs-csci-2270-x,
+ cu-cs-csci-2400-x, cu-cs-csci-3753, cu-cs-csci-4229
 Architecture: all
 Copyright: copyright
 Changelog: changelog

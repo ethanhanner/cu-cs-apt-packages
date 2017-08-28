@@ -3,7 +3,7 @@ Priority: optional
 Homepage: apt.cs.colorado.edu
 Standards-Version: 3.9.5
 Package: cu-cs-editors-common
-Maintainer: Andy Sayler <andy.sayler@colorado.edu>
+Maintainer: Ethan Hanner <ethan.hanner@colorado.edu>
 Pre-Depends: cu-cs-apt
 Depends: nano
 Architecture: all

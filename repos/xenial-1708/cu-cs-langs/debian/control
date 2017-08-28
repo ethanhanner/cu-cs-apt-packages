@@ -3,7 +3,7 @@ Priority: optional
 Homepage: apt.cs.colorado.edu
 Standards-Version: 3.9.5
 Package: cu-cs-langs
-Maintainer: Andy Sayler <andy.sayler@colorado.edu>
+Maintainer: Ethan Hanner <ethan.hanner@colorado.edu>
 Pre-Depends: cu-cs-apt
 Depends: gcc-5, gcc-5-multilib, g++-5, g++-5-multilib,
  clang-3.8,
