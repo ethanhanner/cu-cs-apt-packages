@@ -1,3 +1,45 @@
+cu-cs-vm-xfce (1706.0.4) xenial-1706; urgency=medium
+
+  * Remove cu-cs-editors.list and add prebuilt sublime-text to editors control file
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 13 Jun 2017 23:15:22 +0000
+
+cu-cs-vm-xfce (1706.0.3) xenial-1706; urgency=medium
+
+  * editors update
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 13:25:30 +0000
+
+cu-cs-vm-xfce (1706.0.2) xenial-1706; urgency=medium
+
+  * cu-cs-editors-x update
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 12:59:33 +0000
+
+cu-cs-vm-xfce (1706.0.1) xenial-1706; urgency=medium
+
+  * Modified editors source list file
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 08:50:08 +0000
+
+cu-cs-vm-xfce (1706.0.0) xenial-1706; urgency=medium
+
+  * Updated XFCE background to reflect Summer 2017
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 05 Jun 2017 21:58:23 +0000
+
+cu-cs-vm-xfce (1701.0.0) xenial-1701; urgency=medium
+
+  * Updated for Spring 2017
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 16 Jan 2017 23:24:20 +0000
+
+cu-cs-vm-xfce (1608.0.0) xenial-1608; urgency=medium
+
+  * Updated for Fall 2016
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Wed, 10 Aug 2016 15:42:05 -0600
+
 cu-cs-vm-xfce (1605.0.1) xenial-1605; urgency=medium
 
   * Disabled xfce-settings script
