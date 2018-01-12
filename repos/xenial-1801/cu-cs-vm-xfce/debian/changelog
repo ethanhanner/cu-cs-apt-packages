@@ -1,0 +1,107 @@
+cu-cs-vm-xfce (1801.0.0) xenial-1801; urgency=medium
+
+  * Update background image for initial Spring 2018 release 
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Fri, 12 Jan 2018 22:30:46 +0000
+
+cu-cs-vm-xfce (1708.0.0) xenial-1708; urgency=medium
+
+  * Initial release for Fall 2017. Package ported forward, updated XFCE background
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 28 Aug 2017 10:34:33 +0000
+
+cu-cs-vm-xfce (1706.0.4) xenial-1706; urgency=medium
+
+  * Remove cu-cs-editors.list and add prebuilt sublime-text to editors control file
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 13 Jun 2017 23:15:22 +0000
+
+cu-cs-vm-xfce (1706.0.3) xenial-1706; urgency=medium
+
+  * editors update
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 13:25:30 +0000
+
+cu-cs-vm-xfce (1706.0.2) xenial-1706; urgency=medium
+
+  * cu-cs-editors-x update
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 12:59:33 +0000
+
+cu-cs-vm-xfce (1706.0.1) xenial-1706; urgency=medium
+
+  * Modified editors source list file
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Tue, 06 Jun 2017 08:50:08 +0000
+
+cu-cs-vm-xfce (1706.0.0) xenial-1706; urgency=medium
+
+  * Updated XFCE background to reflect Summer 2017
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 05 Jun 2017 21:58:23 +0000
+
+cu-cs-vm-xfce (1701.0.0) xenial-1701; urgency=medium
+
+  * Updated for Spring 2017
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 16 Jan 2017 23:24:20 +0000
+
+cu-cs-vm-xfce (1608.0.0) xenial-1608; urgency=medium
+
+  * Updated for Fall 2016
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Wed, 10 Aug 2016 15:42:05 -0600
+
+cu-cs-vm-xfce (1605.0.1) xenial-1605; urgency=medium
+
+  * Disabled xfce-settings script
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Fri, 27 May 2016 22:55:18 -0600
+
+cu-cs-vm-xfce (1605.0.0) xenial-1605; urgency=medium
+
+  * Updated for Summer 2016
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Thu, 26 May 2016 20:10:27 -0600
+
+cu-cs-vm-xfce (1601.0.0) trusty-1601; urgency=medium
+
+  * Updated for Fall 16
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Thu, 17 Dec 2015 13:18:13 -0700
+
+cu-cs-vm-xfce (1508.0.0) trusty-1508; urgency=medium
+
+  * Updated for Fall 15
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Mon, 10 Aug 2015 16:12:34 -0600
+
+cu-cs-vm-xfce (1505.0.1) trusty-1505; urgency=medium
+
+  * Fixed background
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Sun, 03 May 2015 20:51:49 -0600
+
+cu-cs-vm-xfce (1505.0.0) trusty-1505; urgency=medium
+
+  * Updated for Summer 15
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Sun, 03 May 2015 15:23:02 -0600
+
+cu-cs-vm-xfce (1501.1.1) trusty-1501; urgency=medium
+
+  * Removed suders file from package
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Wed, 07 Jan 2015 21:01:59 -0700
+
+cu-cs-vm-xfce (1501.1.0) trusty-1501; urgency=medium
+
+  * Updated background for Spring 15
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Sat, 13 Dec 2014 17:03:00 -0700
+
+cu-cs-vm-xfce (1501.0.0) trusty-1501; urgency=medium
+
+  * Initial Release (Spring 15)
+
+ -- Andy Sayler <andy@apt.cs.colorado.edu>  Sat, 13 Dec 2014 15:36:45 -0700
