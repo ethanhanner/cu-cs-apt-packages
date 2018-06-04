@@ -1,3 +1,9 @@
+cu-cs-apt (1806.0.0) xenial-1806; urgency=medium
+
+  * Re-release for Summer 2018 
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 04 Jun 2018 02:23:12 +0000
+
 cu-cs-apt (1801.0.0) xenial-1801; urgency=medium
 
   * Initial release for Spring 2018

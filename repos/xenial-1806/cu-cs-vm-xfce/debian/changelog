@@ -1,3 +1,9 @@
+cu-cs-vm-xfce (1806.0.0) xenial-1806; urgency=medium
+
+  * Re-release for Summer 2018, updated desktop background image
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 04 Jun 2018 02:25:47 +0000
+
 cu-cs-vm-xfce (1801.0.0) xenial-1801; urgency=medium
 
   * Update background image for initial Spring 2018 release 

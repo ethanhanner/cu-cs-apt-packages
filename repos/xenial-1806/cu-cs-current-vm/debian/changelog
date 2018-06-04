@@ -1,3 +1,9 @@
+cu-cs-current-vm (1806.0.0) xenial-1806; urgency=medium
+
+  * Re-release for Summer 2018, removed 1310 & 1320 packages
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Mon, 04 Jun 2018 02:24:27 +0000
+
 cu-cs-current-vm (1605.0.0) xenial-1605; urgency=medium
 
   * Updated for Summer 2016
