@@ -1,3 +1,9 @@
+cu-cs-apt (1808.0.1) xenial-1808; urgency=medium
+
+  * Update cu-cs.list
+
+ -- Ethan Hanner <ethan@apt.cs.colorado.edu>  Sun, 26 Aug 2018 03:19:48 +0000
+
 cu-cs-apt (1808.0.0) xenial-1808; urgency=medium
 
   * Port forward for Fall 2018

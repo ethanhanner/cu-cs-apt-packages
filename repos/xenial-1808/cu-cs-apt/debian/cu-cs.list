@@ -2,8 +2,10 @@
 deb      http://apt.cs.colorado.edu/ubuntu  xenial-1708  main
 deb	 http://apt.cs.colorado.edu/ubuntu  xenial-1801  main
 deb	 http://apt.cs.colorado.edu/ubuntu  xenial-1806	 main
+deb	 http://apt.cs.colorado.edu/ubuntu  xenial-1808  main
 
 # Sources
 deb-src  http://apt.cs.colorado.edu/ubuntu  xenial-1708  main
 deb-src  http://apt.cs.colorado.edu/ubuntu  xenial-1801  main
 deb-src  http://apt.cs.colorado.edu/ubuntu  xenial-1806  main
+deb-src  http://apt.cs.colorado.edu/ubuntu  xenial-1808  main
